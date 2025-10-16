@@ -13,7 +13,6 @@ To prepare a Software Requirement Specification (SRS) for the ATM & Banking Syst
 
 # DIAGRAMS:
 1. USE CASE DIAGRAM
-
 <img width="1051" height="846" alt="use case dia final" src="https://github.com/user-attachments/assets/4f4c4777-d603-4e06-9206-ceadc9fc2ca9" />
 
 2. CLASS DIAGRAM
